@@ -10,7 +10,8 @@ padding: 0;
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 24px;  
+    padding: 24px; 
+    font-family: "Poppins" sans-serif; 
 }
 
 .cabecalho-imagem{
@@ -23,7 +24,7 @@ font-size: 20px;
 }
 
 .escola-imagem{
-    width: 70%;
+    width: 30%;
 }
 
 .escola{
@@ -33,6 +34,8 @@ font-size: 20px;
     justify-content: center;
     align-items: center;
     padding: 24px 0;
+    font-family: "Poppins" sans-serif;
+    text-align: center;
 }
 
 .escola-dive-conteudo{
@@ -41,4 +44,13 @@ width: 35%;
 
 .escola-titulo{
     padding: 24px 0;
+    font-size: 35px;
+}
+
+.estudante-imagem{
+    width: 200px;
+}
+
+.estudante-icone{
+    width: 35px;
 }
